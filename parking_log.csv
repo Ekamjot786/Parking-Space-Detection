@@ -1,0 +1,7 @@
+timestamp,event,slot_id,extra
+2025-09-16 09:10:31,reserve,0,reserved
+2025-09-16 09:10:33,reserve,6,reserved
+2025-09-16 09:10:35,unreserve,6,unreserved
+2025-09-16 09:10:36,unreserve,0,unreserved
+2025-09-16 09:10:45,reserve,21,reserved
+2025-09-16 09:10:46,unreserve,21,unreserved

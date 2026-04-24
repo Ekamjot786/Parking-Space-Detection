@@ -14,5 +14,5 @@ This project detects parking space occupancy in real time using **YOLOv8** and *
 - OpenCV  
 - YOLOv8 (Ultralytics)  
 - cvzone  
-- NumPy  
+- NumPy 
 
